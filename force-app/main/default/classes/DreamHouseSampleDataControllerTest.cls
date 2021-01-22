@@ -4,7 +4,7 @@ private class DreamHouseSampleDataControllerTest {
     @isTest
     static void test_deleteAll() {
 
-        Property__c property = new Property__c();
+        Property__c property = new Property__c(Street_Address__c='street_test');
         Broker__c broker = new Broker__c();
 
         insert property;

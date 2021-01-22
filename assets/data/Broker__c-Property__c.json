@@ -35,7 +35,8 @@
                         "Tags__c": "Modern",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09sq.jpg",
                         "Title__c": "Seaport District Retreat",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "121 Harborwalk Drive"
                     },
                     {
                         "attributes": {
@@ -59,7 +60,8 @@
                         "Tags__c": "Contemporary",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11sq.jpg",
                         "Title__c": "Architectural Details",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "95 Gloucester St"
                     },
                     {
                         "attributes": {
@@ -83,7 +85,8 @@
                         "Tags__c": "Colonial",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01sq.jpg",
                         "Title__c": "Stunning Colonial",
-                        "Zip__c": "01742"
+                        "Zip__c": "01742",
+                        "Street_Address__c": "18 Henry St"
                     }
                 ]
             }
@@ -123,7 +126,8 @@
                         "Tags__c": "Modern",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08sq.jpg",
                         "Title__c": "City Living",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "503 Park Drive"
                     },
                     {
                         "attributes": {
@@ -147,7 +151,8 @@
                         "Tags__c": "Victorian",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12sq.jpg",
                         "Title__c": "Contemporary Luxury",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "145 Commonwealth Ave"
                     },
                     {
                         "attributes": {
@@ -171,7 +176,8 @@
                         "Tags__c": "Victorian",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02sq.jpg",
                         "Title__c": "Ultimate Sophistication",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "24 Pearl St"
                     }
                 ]
             }
@@ -211,7 +217,8 @@
                         "Tags__c": "Modern",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03sq.jpg",
                         "Title__c": "Modern City Living",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "61 West Cedar St"
                     }
                 ]
             }
@@ -251,7 +258,8 @@
                         "Tags__c": "Contemporary",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04sq.jpg",
                         "Title__c": "Live in the Trees",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "32 Prince st"
                     }
                 ]
             }
@@ -291,7 +299,8 @@
                         "Tags__c": "Modern",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
                         "Title__c": "Waterfront in the City",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "211 Charles Street"
                     }
                 ]
             }
@@ -331,7 +340,8 @@
                         "Tags__c": "Colonial",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
                         "Title__c": "Quiet Retreat",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "448 Hanover St"
                     }
                 ]
             }
@@ -371,7 +381,8 @@
                         "Tags__c": "Victorian",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
                         "Title__c": "City Living",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "127 Endicott St"
                     }
                 ]
             }
@@ -411,7 +422,8 @@
                         "Tags__c": "Colonial",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
                         "Title__c": "Heart of Harvard Square",
-                        "Zip__c": "02420"
+                        "Zip__c": "02420",
+                        "Street_Address__c": "48 Brattle St"
                     }
                 ]
             }
